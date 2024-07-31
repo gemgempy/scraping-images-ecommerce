@@ -1,0 +1,1 @@
+This program requires a dataset that at least has links from each product on sephora.com / sephora.co.id / global.oliveyoung.com and other product detail attributes that need to be collected. Detail product datasets were unpublishable, feel free to ask something.
